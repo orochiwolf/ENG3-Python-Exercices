@@ -1,7 +1,7 @@
 Exercise: Mutability in Lists
 Objective
 Understand how mutability works in Python lists by updating elements dynamically.
-Instructions
+Instructions:
 
     Initialize a list: numbers = [1, 2, 3, 4, 5].
     Write a program that:
